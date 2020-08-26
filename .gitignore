@@ -1,0 +1,14 @@
+Notepad/*.iml
+Notepad/.gradle
+Notepad/local.properties
+Notepad/.idea/caches
+Notepad/.idea/libraries
+Notepad/.idea/modules.xml
+Notepad/.idea/workspace.xml
+Notepad/.idea/navEditor.xml
+Notepad/.idea/assetWizardSettings.xml
+Notepad/.DS_Store
+Notepad/build
+Notepad/captures
+Notepad/.externalNativeBuild
+Notepad/.cxx
